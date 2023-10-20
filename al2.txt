@@ -1,1 +1,4 @@
 CLASSE AL2
+
+Ce fichier est maintenant ouvrable correctement.
+
